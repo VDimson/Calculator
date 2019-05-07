@@ -24,6 +24,7 @@ void operations();
 void math_operations();
 void on_pushButton_ravno_clicked();
 void on_pushButton_clicked();
+void on_commandLinkButton_clicked();
 };
 
 #endif // MAINWINDOW_H

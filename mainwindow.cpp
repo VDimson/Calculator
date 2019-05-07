@@ -147,3 +147,8 @@ void MainWindow::on_pushButton_clicked()
       ui->pushButton_umnogenie->setChecked(false);
        ui->pushButton_delenie->setChecked(false);
 }
+
+void MainWindow::on_commandLinkButton_clicked()
+{
+    this->close();
+}
